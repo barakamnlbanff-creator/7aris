@@ -76,4 +76,4 @@ async def unmute(interaction: discord.Interaction, member: discord.Member, reaso
     except Exception as e:
         await interaction.followup.send(f"ماقدرت أفك الكتم: {e}", ephemeral=True)
 
-bot.run(TOKEN)
+bot.run(MTQ3NTAwNzY4NTAzOTQ4OTE2OA.GaWjDw.EXL9Ql43M7th918GqiW2BFW2ED4j3I2r_x7RCA)
